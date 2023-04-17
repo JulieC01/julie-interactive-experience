@@ -44,7 +44,7 @@ function setup() {
     nandeya.class('place');
     nandeya.position(200, 800);
 
-    kushitsuru = createImg("images/nandeya.png");
+    kushitsuru = createImg("images/kushitsuru.png");
     kushitsuru.class('place');
     kushitsuru.position(700, 800);
     
