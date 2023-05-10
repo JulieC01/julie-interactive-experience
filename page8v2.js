@@ -43,15 +43,15 @@ function setup() {
 
     izumisushi3 = createImg("images/izumisushi3.png");
     izumisushi3.class('place');
-    izumisushi3.position(100, 400);
+    izumisushi3.position(100, 350);
 
     izumisushi4 = createImg("images/izumisushi4.png");
     izumisushi4.class('place');
-    izumisushi4.position(550, 400);
+    izumisushi4.position(550, 350);
     
     izumisushi5 = createImg("images/izumisushi5.png");
     izumisushi5.class('place');
-    izumisushi5.position(1000, 400);
+    izumisushi5.position(1000, 350);
   }
   
   function draw() {
